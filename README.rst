@@ -22,8 +22,8 @@ Module spécifique CRM
 .. |badge6| image:: /static/images/lead_tree.png
     :target: /static/images/lead_tree.png
     :alt: Lead Tree    
-.. |badge6| image:: /static/images/lead_from.png
-    :target: /static/images/lead_from.png
+.. |badge7| image:: /static/images/lead_form.png
+    :target: /static/images/lead_form.png
     :alt: Lead from       
 
 |badge1| 
@@ -50,12 +50,16 @@ Captures d'écran
     |badge4|
 
 4. Le champ “Revenu espéré” est invisible pour les autre groups autre que Administrateur des ventes  
-    La veu kanban:
-    |badge5|
+    La veu kanban: 
+        |badge5|  
+        
     La veu liste:  
-    |badge6|
+        |badge6|  
+    
     La veu Formulaire:  
-    |badge7|
+        |badge7|      
+    
+    
 
 
 =======
