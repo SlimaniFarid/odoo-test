@@ -15,14 +15,17 @@ Module spécifique CRM
     :alt: Leader 
 .. |badge4| image:: /static/images/teams.png
     :target: /static/images/teams.png
-    :alt: Teams     
-.. |badge5| image:: /static/images/lead_kanban.png
-    :target: /static/images/lead_kanban.png
-    :alt: Lead Kanban   
-.. |badge6| image:: /static/images/lead_tree.png
+    :alt: Teams 
+.. |badge5| image:: /static/images/teams.png
+    :target: /static/images/teams.png
+    :alt: Teams 
+.. |badge6| image:: /static/images/mail.png
+    :target: /static/images/mail.png
+    :alt: Mail   
+.. |badge7| image:: /static/images/lead_tree.png
     :target: /static/images/lead_tree.png
     :alt: Lead Tree    
-.. |badge7| image:: /static/images/lead_form.png
+.. |badge8| image:: /static/images/lead_form.png
     :target: /static/images/lead_form.png
     :alt: Lead from       
 
@@ -48,16 +51,19 @@ Captures d'écran
 
 3. Les 03 équipes commerciales  
     |badge4|
-
-4. Le champ “Revenu espéré” est invisible pour les autre groups autre que Administrateur des ventes  
+    
+4. Model de mail reçu d'une opportunité qui dépasse plus de 10 jours de sa création sans passer d'un autre statut que brouillon  
+    |badge5|
+    
+5. Le champ “Revenu espéré” est invisible pour les autre groups autre que Administrateur des ventes  
     La veu kanban: 
-        |badge5|  
+        |badge6|  
         
     La veu liste:  
-        |badge6|  
+        |badge7|  
     
     La veu Formulaire:  
-        |badge7|      
+        |badge8|      
     
     
 
