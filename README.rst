@@ -18,7 +18,13 @@ Module spécifique CRM
     :alt: Teams     
 .. |badge5| image:: /static/images/lead_kanban.png
     :target: /static/images/lead_kanban.png
-    :alt: Lead Kanban    
+    :alt: Lead Kanban   
+.. |badge6| image:: /static/images/lead_tree.png
+    :target: /static/images/lead_tree.png
+    :alt: Lead Tree    
+.. |badge6| image:: /static/images/lead_from.png
+    :target: /static/images/lead_from.png
+    :alt: Lead from       
 
 |badge1| 
 
@@ -35,19 +41,21 @@ Le module répond au besoin spécifique exprimé par l'équipe numigi dans un ca
 Captures d'écran
 ~~~~~~~
 1. Ajout d'un champ emails  
-|badge2| 
+    |badge2| 
 
 2. Le chef d’équipe est toujours un membre de l’équipe commercial  
-   
-|badge3| 
+       |badge3| 
 
-3. Les 03 équipes commerciales 
-|badge4|
+3. Les 03 équipes commerciales  
+    |badge4|
 
 4. Le champ “Revenu espéré” est invisible pour les autre groups autre que Administrateur des ventes  
     La veu kanban:
-
-|badge5|
+    |badge5|
+    La veu liste:  
+    |badge6|
+    La veu Formulaire:  
+    |badge7|
 
 
 =======
