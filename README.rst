@@ -7,8 +7,13 @@ Module spécifique CRM
     :alt: License: AGPL-3
     
 .. |badge2| image:: /static/image/team_member_emails.png
-    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
-    :alt: License: AGPL-3    
+    :target:  /static/image/team_member_emails.png
+    :alt: emails
+    
+.. |badge3| image:: /static/image/team_leader.png
+    :target: /static/image/team_leader.png
+    :alt: Leader    
+    
 
 |badge1| 
 
@@ -24,7 +29,11 @@ Le module répond au besoin spécifique exprimé par l'équipe numigi dans un ca
 
 Captures d'écran
 ~~~~~~~
+Ajout d'un champ emails
 |badge2| 
+Le chef d’équipe est toujours un membre de l’équipe commercial
+|badge3| 
+
 
 
 =======
